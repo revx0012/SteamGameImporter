@@ -53,6 +53,7 @@ Just grab the `.exe` for Windows and run it — no installation required.
 | [@steam_tools Telegram](https://t.me/steam_tools) | ❌ Not recommended | May serve malicious `.exe` files |
 | [SteamTools Discord](https://discord.gg/Z4bAPhqa4y) | ⚠️ Caution | Helpful but owned by cysaw; avoid purchases |
 | [Alt Discord Server](https://discord.gg/WuYafUu5ZT) | ⚠️ Okay | Fine community, be wary of paid stuff |
+| [DepotBox](https://depotbox.org/) | ⚠️ Could be trustworthy | I dont know much about it but it could be trustworthy? |
 
 ---
 
