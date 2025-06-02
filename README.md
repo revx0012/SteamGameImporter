@@ -12,7 +12,7 @@ It lets you add games to your Steam library using `.lua`, `.manifest`, or `.st` 
 - 🧺 Supports `.lua`, `.manifest`, `.st` files
 - 🖼️ Tray support after setup (first launch configures everything)
 - 📁 Extracts icon + config to `%appdata%/SteamGameImporter`
-- 💾 Fully portable — you can delete the EXE after closing it
+- 💾 Fully portable — Can be used anywhere
 
 ---
 
