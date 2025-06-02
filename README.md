@@ -115,6 +115,13 @@ npx electron-builder --win
 
 ---
 
+## 📚 Wiki
+
+Need help or ran into a bug?  
+Check out the [Wiki](https://github.com/revx0012/SteamGameImporter/wiki) for fixes, explanations, and common issues.
+
+---
+
 ## 📝 License
 
 This project is released under the [MIT License](LICENSE).
